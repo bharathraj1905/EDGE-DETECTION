@@ -80,22 +80,36 @@ plt.show()
 ```
 
 ## OUTPUT:
-#### INPUT IMAGE:
-![INPUT](/ip.png)
 
-### SOBEL EDGE DETECTOR
-![OUTPUT](/x.png)
-
-![OUTPUT](/y.png)
-
-![OUTPUT](/xy.png)
-
-### LAPLACIAN EDGE DETECTOR
-![OUTPUT](/lap.png)
+### SOBEL X AXIS :
+![1](https://github.com/IamShakthi/EDGE-DETECTION/assets/117913445/caff429f-d2c7-435c-a9bc-2aa684506114)
 
 
-### CANNY EDGE DETECTOR
-![OUTPUT](/can.png)
+
+
+
+### SOBEL Y AXIS :
+
+![2](https://github.com/IamShakthi/EDGE-DETECTION/assets/117913445/cbfcfc0b-b68e-470b-8ec1-ff0e39eabfa8)
+
+
+
+### SOBEL XY AXIS :
+
+![3](https://github.com/IamShakthi/EDGE-DETECTION/assets/117913445/c1919680-18ed-47f7-9ea8-6e1c614d59f5)
+
+
+
+### LAPLACIAN EDGE DETECTOR :
+
+![4](https://github.com/IamShakthi/EDGE-DETECTION/assets/117913445/38f15bf9-0de6-4624-84d0-ab9934908883)
+
+
+
+### CANNY EDGE DETECTOR :
+
+![5](https://github.com/IamShakthi/EDGE-DETECTION/assets/117913445/ce080b28-13ea-47af-8f2f-42fdc9c4bbdf)
+
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
